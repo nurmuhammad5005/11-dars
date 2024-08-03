@@ -1,0 +1,22 @@
+img {
+    border: 3px solid yellow;
+}
+table {
+    border: 2px solid yellow;
+    text-align: center;
+    border-collapse: collapse;
+}
+th {
+    border: 2px solid yellow;
+     border-collapse:collapse ;
+}
+td {
+    border: 2px solid yellow;
+ border-collapse: collapse ;
+}
+input {
+    height: 40px;
+    width: 1470px;
+    border-radius: 10px;
+
+}
